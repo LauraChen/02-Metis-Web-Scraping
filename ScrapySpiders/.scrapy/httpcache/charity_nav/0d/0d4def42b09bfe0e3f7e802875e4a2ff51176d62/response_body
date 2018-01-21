@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /6520739/300x250_Rectangle
+Disallow: /6520739/MediumRectangle_RightSidebar
+Disallow: /6520739/Leaderboard
+Disallow: /adbackup.html
+Disallow: /adbackupbanner.html

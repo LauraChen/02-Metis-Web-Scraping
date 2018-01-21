@@ -1,0 +1,11 @@
+Server: nginx
+Date: Thu, 18 Jan 2018 21:20:08 GMT
+Content-Type: text/html; charset=UTF-8
+Link: <https://www.musicfestivalwizard.com/wp-json/>; rel="https://api.w.org/"
+X-Cacheable: bot
+Cache-Control: max-age=10800, must-revalidate
+X-Cache: HIT: 6
+X-Pass-Why: 
+X-Cache-Group: bot
+X-Type: default
+Content-Encoding: gzip
