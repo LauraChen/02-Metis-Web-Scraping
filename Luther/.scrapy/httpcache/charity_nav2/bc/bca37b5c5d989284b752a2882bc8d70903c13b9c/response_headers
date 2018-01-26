@@ -1,0 +1,16 @@
+Content-Type: text/html;charset=UTF-8
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Microsoft-IIS/8.5
+Set-Cookie: CFID=78521033; Expires=Tue, 14-Jan-2048 20:04:38 GMT; Path=/; HttpOnly
+Set-Cookie: CFTOKEN=d68084e5ad0313d6-0739ED88-5056-A62C-2341D46109E33AE3; Expires=Tue, 14-Jan-2048 20:04:38 GMT; Path=/; HttpOnly
+Set-Cookie: JSESSIONID=A28A2185F7F729AA7A5B6F02C5C4F77E.cfusion; Path=/; Secure; HttpOnly
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Referrer-Policy: origin-when-cross-origin
+X-Xss-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-Powered-By: ASP.NET
+Date: Sun, 21 Jan 2018 20:04:38 GMT
+X-Iinfo: 12-91423796-91424360 SNNN RT(1516565003412 73849) q(0 0 0 -1) r(3 3) U9
+X-Cdn: Incapsula

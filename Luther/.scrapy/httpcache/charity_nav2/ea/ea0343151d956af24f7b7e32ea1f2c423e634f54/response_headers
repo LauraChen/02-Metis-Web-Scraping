@@ -1,0 +1,18 @@
+Cache-Control: no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html;charset=UTF-8
+Content-Encoding: gzip
+Expires: Sun, 21 Jan 2018 20:49:05 GMT
+Vary: Accept-Encoding
+Server: Microsoft-IIS/8.5
+Set-Cookie: JSESSIONID=1FD49C2F8E9A303627CDFC0DC3A19FE8.cfusion; Path=/; Secure; HttpOnly
+Set-Cookie: incap_ses_703_629974=5xyaGMvWpDtI6YruFprBCcD8ZFoAAAAAjGa9HY0JOK9cVq1m+PwS9Q==; path=/; Domain=.charitynavigator.org
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Referrer-Policy: origin-when-cross-origin
+X-Xss-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-Powered-By: ASP.NET
+Date: Sun, 21 Jan 2018 20:49:04 GMT
+X-Iinfo: 12-91472997-91718782 SNNN RT(1516565455762 2288483) q(0 0 0 1) r(1 1) U9
+X-Cdn: Incapsula
